@@ -18,5 +18,13 @@
 8. And when you finish painting click "Generate Map" button.
 ---
 ## Images
-![Image](https://github.com/user-attachments/assets/b9688904-97aa-4c7c-bd07-97685fdd2a19)
-![Image](https://github.com/user-attachments/assets/d3c7692d-a237-4b3f-8b0a-d6d6e95d0d14)
+![Houses generated with this tool](https://github.com/ARTTonyTone/3D-Tilemap-Tool-For-Unity/blob/cf83a3d5c8acf8bae27d97480a7201878bc0f1ef/Image%20%26%20Video/3D_tilemap_tool_example_img.png)
+![Inspector view](https://github.com/ARTTonyTone/3D-Tilemap-Tool-For-Unity/blob/cf83a3d5c8acf8bae27d97480a7201878bc0f1ef/Image%20%26%20Video/3D_tilemap_tool_inspector_view_for_cover.png)
+
+### ❤️ Enjoying this tool?  
+If this Unity tool saves you time and you'd like to support its development,  
+consider buying me a coffee! Every donation motivates future updates:  
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=WFZQJGKZHGEE8)
+
+*Note: This is an optional contribution. The tool remains free and open-source!*
