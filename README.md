@@ -18,6 +18,14 @@
 8. And when you finish painting click "Generate Map" button.
 ---
 ## Images
+<table>
+  <tr style="border-collapse: collapse;">
+    <td><img src="https://github.com/ARTTonyTone/3D-Tilemap-Tool-For-Unity/blob/1a56267c7de7935bcd63259b593a2393929bdc28/Image%20%26%20Video/Add_TileObject.gif" alt="Add TileObject" style="width:100%; border: 1px solid #ddd; border-radius: 8px;"></td>
+    <td><img src="https://github.com/ARTTonyTone/3D-Tilemap-Tool-For-Unity/blob/1a56267c7de7935bcd63259b593a2393929bdc28/Image%20%26%20Video/Painting_grid.gif" alt="Painting Grid" style="width:100%; border: 1px solid #ddd; border-radius: 8px;"></td>
+    <td><img src="https://github.com/ARTTonyTone/3D-Tilemap-Tool-For-Unity/blob/1a56267c7de7935bcd63259b593a2393929bdc28/Image%20%26%20Video/3D_generate.gif" alt="3D Generate" style="width:100%; border: 1px solid #ddd; border-radius: 8px;"></td>
+  </tr>
+</table>
+
 ![Houses generated with this tool](https://github.com/ARTTonyTone/3D-Tilemap-Tool-For-Unity/blob/cf83a3d5c8acf8bae27d97480a7201878bc0f1ef/Image%20%26%20Video/3D_tilemap_tool_example_img.png)
 ![Inspector view](https://github.com/ARTTonyTone/3D-Tilemap-Tool-For-Unity/blob/cf83a3d5c8acf8bae27d97480a7201878bc0f1ef/Image%20%26%20Video/3D_tilemap_tool_inspector_view_for_cover.png)
 
