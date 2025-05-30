@@ -25,6 +25,8 @@
 If this Unity tool saves you time and you'd like to support its development,  
 consider buying me a coffee! Every donation motivates future updates:  
 
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=WFZQJGKZHGEE8)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=WFZQJGKZHGEE8) or
+
+![PayPal QR](https://github.com/ARTTonyTone/3D-Tilemap-Tool-For-Unity/blob/329041d7c2eff33cc3ee46b8bc21185206fc8b10/Image%20%26%20Video/Paypal_Donate_QR_Code.png)
 
 *Note: This is an optional contribution. The tool remains free and open-source!*
