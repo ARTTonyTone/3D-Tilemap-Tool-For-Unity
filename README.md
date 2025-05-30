@@ -16,3 +16,7 @@
 6. You can paint grid like you want
 7. If you want to check grid matrix click "Check Grid Matrix" button, it will be printed on console
 8. And when you finish painting click "Generate Map" button.
+---
+## Images
+![Image](https://github.com/user-attachments/assets/b9688904-97aa-4c7c-bd07-97685fdd2a19)
+![Image](https://github.com/user-attachments/assets/d3c7692d-a237-4b3f-8b0a-d6d6e95d0d14)
